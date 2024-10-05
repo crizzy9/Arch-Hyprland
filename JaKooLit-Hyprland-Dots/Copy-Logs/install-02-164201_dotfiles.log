@@ -1,0 +1,7 @@
+Nvidia GPU detected. Setting up proper env's
+[33m[NOTE][m kb_layout us configured in settings.  
+You chose not to change to 12H format.
+You chose ≥ 1440p resolution for better Rofi appearance.
+Rainbow borders is now disabled.
+You chose not to download additional wallpapers.
+./copy.sh: line 412: wallust: command not found
